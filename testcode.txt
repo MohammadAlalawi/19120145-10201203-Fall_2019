@@ -3,8 +3,13 @@ int main()
 
 {
 
+int number
 
-Printf("1,2\n");
+   printf("please enter a number\n");
+   scanf("%d",&number);
+
+   printf("%d",number);
+
 
 return0;
 
